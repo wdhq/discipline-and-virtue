@@ -1,13 +1,14 @@
 # Wisdom Starter Pack
 
-| Langues supportées | [`Anglais`](../README.md) | `Français` |
-| - | - | - |
+> [!IMPORTANT]
+> Langues supportées [`Anglais`](../README.md) `Français`
 
 ## À propos
 
 [Wisdom Starter Pack](https://github.com/wdhq/wisdom-starter-pack) est un regroupement de ressources classiques pertinentes qui peuvent être appliquées à la psychologie et aux sciences sociales contemporaines. Son modeste objectif est de servir d'introduction *utile* à l'apprentissage de la sagesse au quotidien, tout en encourageant un comportement positif envers soi-même et les autres.
 
-<p xmlns:cc="http://creativecommons.org/ns#" >Domaine public <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+> [!NOTE]
+> <p xmlns:cc="http://creativecommons.org/ns#" >Domaine public <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
 ## Légende
 
@@ -19,7 +20,7 @@ _Citation_
 ## Sommaire
 
 1. [Vulnérabilités émotionnelles](#vulnérabilités-émotionnelles)
-    1. [Colère](#col&#232;re)
+    1. [Colère](#colère)
     2. [Solitude](#solitude)
     3. [Intelligence](#intelligence)
 2. [Questionnement existentiel](#questionnement-existentiel)
@@ -33,7 +34,7 @@ _Citation_
 
 # Vulnérabilités émotionnelles
 
-## Col&#232;re
+## Colère
 
 _Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement le responsable de ta colère._
 
@@ -59,9 +60,9 @@ _Tu vois ce vide au-dessus de nos têtes ? C'est Dieu. Le silence, c'est Dieu, l
 
 ## Intelligence
 
-_Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement._
+_Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement._ [^1]
 
-- _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona) <sup>[NB](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed)</sup> 
+- _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona)  <sup>[NB](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed)</sup> 
 
 > L'intelligence ne se mesure pas par la quantité de connaissances accumulées, mais par la manière dont ces connaissances sont appliquées. Ce n'est que lorsque nous faisons face à notre propre manque de compréhension que nous réalisons que notre savoir n'est qu'un morceau d'un puzzle beaucoup plus vaste et que l'intelligence en est le cadre.
 
@@ -155,3 +156,5 @@ Les grenouilles à nager ?
 Les plantes à patienter ?_
 
 - _André-Georges Haudricourt, Pratiques de la Culture des Fruits, 1987, 169_ [⤴](https://archive.org/details/latechnologiesci0000haud)
+
+[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
