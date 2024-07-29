@@ -1,6 +1,6 @@
 # Wisdom Starter Pack
 
-| Langues supportées | [`Anglais`](README.md) | `Français` |
+| Langues supportées | [`Anglais`](./README.md) | `Français` |
 | - | - | - |
 
 ## À propos
@@ -38,7 +38,7 @@ _Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on
 
 - _Épictète, Manuel, Chapitre 20_ [⤴](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg002.perseus-eng1:20)
 
-> Lorsque quelqu'un déclenche votre colère, il est important de reconnaître que cette réaction provient de votre propre cadre cognitif et émotionnel. Cela peut mettre en lumière des domaines où votre compréhension et vos lacunes intellectuelles affectent votre capacité à répondre de manière calme et rationnelle.
+> Lorsque quelqu'un déclenche votre colère, il est important de reconnaître que cette réaction provient de votre propre cadre cognitif et émotionnel. Cela peut dévoiler des aspects où votre compréhension et vos lacunes intellectuelles affectent votre capacité à répondre de manière calme et rationnelle.
 
 _Quiconque est capable de vous mettre en colère devient votre maître ; il ne peut vous mettre en colère que lorsque vous vous permettez d'être troublé par lui._
 
@@ -50,7 +50,7 @@ _Si vous vous sentez seul lorsque vous êtes avec vous-même, c’est que vous �
 
 - _Jean-Paul Sartre, L'Être et le Néant, 1943, Partie 1, Chapitre 2_ [⤴](hhttps://archive.org/details/ltreetlenantessa0000sart)
 
-> Quand on se sent seul même dans la solitude, cela révèle une déconnexion de ses propres pensées et sentiments. Cela suggère que le malaise n'est pas uniquement dû à l'absence des autres, mais aussi à la manière dont les distractions externes peuvent empêcher de trouver du confort et du sens en soi-même.
+> Quand on se sent seul même dans la solitude, cela révèle une dissociation entre ses propres pensées et ses sentiments. Cela suggère que le malaise n'est pas uniquement dû à l'absence des autres, mais bel et bien à la manière dont les distractions externes peuvent empêcher de trouver du confort et du sens en soi-même.
 
 _Tu vois ce vide au-dessus de nos têtes ? C'est Dieu. Le silence, c'est Dieu, l'absence c'est Dieu. Dieu, est la solitude des hommes._
 
@@ -78,7 +78,7 @@ Si c’est dans un moment, pour l’instant, je déjeune, puisque l’heure est 
 
 - _Épictète, Entretiens, 1.1.32, Trad. Massimo Pigliucci_ [⤴](http://classics.mit.edu/Epictetus/discourses.1.one.html)
 
-> Se lamenter sur l'inévitabilité de la mort ne sert à rien et ne crée que des distractions inutiles. Au lieu de cela, cultivez votre obsession avec un sentiment de gratitude et de certitude. La mort est une certitude, mais il en est de même pour l'opportunité de vivre pleinement jusqu'à ce moment.
+> Se lamenter sur l'inévitabilité de la mort ne sert à rien d'autre qu'à créer des distractions inutiles. Au lieu de cela, cultivez votre obsession avec un sentiment de gratitude et de certitude. La mort est une certitude, mais il en est de même pour l'opportunité de vivre pleinement jusqu'à ce moment.
 
 _Le plus effroyable des maux, la mort, n'est rien pour nous, étant donné précisément que quand nous sommes, la mort n'est pas présente, et que quand la mort est présente, alors nous ne sommes pas._
 
@@ -102,7 +102,7 @@ _'La plupart des hommes ne veulent pas nager avant d’avoir appris à le faire.
 
 - _Hermann Hesse, Le Loup des steppes, 1927, Page 10_ [⤴](https://archive.org/details/leloupdessteppes0000unse)
 
-> Nous sommes des êtres ancrés, prospérant sur la terre ferme et l'expérience directe, pas sur les méditations abstraites. Ceux qui s'immergent dans une introspection sans relâche peuvent atteindre de grandes perspectives, mais en le faisant, ils risquent de perdre le contact avec l'essence même de la vie qui les maintient enracinés.
+> Nous sommes des êtres d'argile, qui prospèrent sur la terre ferme et vivent de l'expérience directe, et non de réflexions abstraites. Ceux qui s'immergent dans une introspection sans relâche peuvent parvenir à de grandes réalisations, mais en le faisant, ils risquent de perdre le contact avec l'essence même de la vie qui les maintient enracinés.
 
 _Le mystère de la vie n'est pas une question à résoudre mais une réalité à vivre._
 
@@ -116,7 +116,7 @@ _Il n'y a rien d'extérieur à vous qui puisse vous permettre de devenir meilleu
 
 - _Miyamoto Musashi, Le Livre des Cinq Anneaux, 空の巻, 1645, Livre 5_ [⤴](https://archive.org/details/bookoffiverings0000miya)
 
-> Notre corps et nos muscles sont des outils que l'on peut cultiver par la discipline et l'effort, tout comme l'esprit peut être aiguisé par la connaissance et la pratique. Cette perspective nourrit un sentiment d'accomplissement, car l'accent est mis sur l'accumulation interne plutôt que sur l'accumulation externe. Ce qui se trouve au-delà de la paume de ses mains ne doit pas pervertir son être, car la seule domination que nous possédons est sur notre propre être.
+> Notre corps et nos muscles sont des outils que l'on peut développer par la discipline et l'effort, tout comme l'esprit peut être aiguisé par la connaissance et la pratique. Cette perspective nourrit un sentiment d'accomplissement, car l'accent est mis sur le contentement interne plutôt que sur l'accumulation externe. Ce qui se trouve au-delà de la paume de ses mains ne doit pas pervertir son être, car la seule domination que nous possédons est sur notre propre être.
 
 _Quand nous ne sommes plus capables de changer une situation, nous sommes confrontés au défi de nous changer nous-mêmes._
 
@@ -128,13 +128,13 @@ _Pensez avec légèreté de vous-même et profondément du monde._
 
 - _Miyamoto Musashi, La Voie de la marche seule, 獨行道, 1645, Précepte 4_ [⤴](https://archive.org/details/fritzkeys-dokkodo-musashi)
 
-> Les individus ont tendance à surestimer leur propre importance, l'imaginant parfois aussi grande que des montagnes. Dans leur folie, ils peuvent se perdre sur le chemin de la vie. Réévaluer l'échelle de l'existence est véritablement le chemin principal vers la compréhension du royaume auquel nous appartenons.
+> Les personnes ont tendance à surestimer leur propre importance, l'imaginant parfois aussi grande que les montagnes les plus hautes. C'est dans leur naïveté qu'elles se retrouvent perdues, égarées sur le chemin de leur propre vie. C'est pourquoi réévaluer l'échelle de l'existence est le véritable chemin vers la compréhension de notre place dans le monde.
 
 _Préoccupé par une seule feuille, vous ne verrez pas l'arbre. Préoccupé par un seul arbre, vous manquerez toute la forêt._
 
 - _Miyamoto Musashi, Le Livre des Cinq Anneaux, 風の巻, 1645, Livre 4_ [⤴](https://archive.org/details/bookoffiverings0000miya)
 
-> Alors que nos cœurs s'ouvrent à la richesse de notre expérience humaine partagée, nous nous retrouvons tissés dans une tapisserie plus vaste et interconnectée, où chaque fil - aussi insignifiant qu'il puisse paraître - contribue au grand et complexe dessin de l'existence.
+> Alors que nos cœurs s'ouvrent à la richesse de nos expériences partagées, nous nous retrouvons tissés dans une toile plus vaste et interconnectée, où chaque fil — aussi insignifiant qu'il puisse paraître — contribue au grand et complexe dessin de l'existence.
 
 _Une question reste pour moi sans réponse. Si c’était les autres êtres vivants qui avaient éduqué les hommes ?  
 Si les chevaux leur avaient appris à courir ?  
