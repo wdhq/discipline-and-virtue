@@ -1,6 +1,6 @@
 # Wisdom Starter Pack
 
-| Supported languages | `English` | [`French`](./Languages/README_fr.md) |
+| Supported languages | `English` | [`French`](Languages/README_fr.md) |
 | - | - | - |
 
 ## About
