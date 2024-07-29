@@ -1,7 +1,6 @@
-# Wisdom Starter Pack
+`English` [`Français`](Languages/README_fr.md)
 
-| Supported languages | `English` | [`French`](Languages/README_fr.md) |
-| - | - | - |
+# Wisdom Starter Pack
 
 ## About
 
@@ -30,6 +29,7 @@ _Quote_
 	1. [Resilience](#resilience)
 	2. [Virtue](#virtue)
 	3. [Gratitude](#gratitude)
+4. [Index](#index)
 
 # Emotional vulnerabilities
 
@@ -59,9 +59,9 @@ _See that void above our heads? That's God. Silence is God, absence is God. God 
 
 ## Intelligence
 
-_If you can't explain something to a six-year-old, you really don't understand it yourself._
+_If you can't explain something to a six-year-old, you really don't understand it yourself._ [^1]
 
-- _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona) <sup>[Notice](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed)</sup> 
+- _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona)
 
 > Intelligence isn’t measured by the sheer amount of knowledge one accumulates; rather, it’s about how effectively that knowledge is applied. It’s only when we face our own lack of understanding that we realize our knowledge is just one piece of a much larger puzzle and that intelligence is the framework of that puzzle.
 
@@ -155,3 +155,7 @@ The frogs how to swim?
 The plants how to wait?_
 
 - _André-Georges Haudricourt, Pratiques de la Culture des Fruits, 1987, 169_ [⤴](https://archive.org/details/latechnologiesci0000haud)
+
+###### Index
+
+[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
