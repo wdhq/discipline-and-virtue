@@ -1,6 +1,6 @@
-# Wisdom Starter Pack
-
 `Français` [`English`](../README.md)
+
+# Wisdom Starter Pack
 
 ## À propos
 
@@ -29,7 +29,7 @@ _Citation_
     1. [Résilience](#resilience)
     2. [Vertu](#vertu)
     3. [Gratitude](#gratitude)
-4. [Références](#references)
+4. [Index](#index)
 
 # <a name="vulnerabilites-emotionnelles"></a> Vulnérabilités émotionnelles
 
@@ -61,7 +61,7 @@ _Tu vois ce vide au-dessus de nos têtes ? C'est Dieu. Le silence, c'est Dieu, l
 
 _Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement._ [^1]
 
-- _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona)  <sup>[NB](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed)</sup> 
+- _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona)
 
 > L'intelligence ne se mesure pas par la quantité de connaissances accumulées, mais par la manière dont ces connaissances sont appliquées. Ce n'est que lorsque nous faisons face à notre propre manque de compréhension que nous réalisons que notre savoir n'est qu'un morceau d'un puzzle beaucoup plus vaste et que l'intelligence en est le cadre.
 
@@ -156,6 +156,6 @@ Les plantes à patienter ?_
 
 - _André-Georges Haudricourt, Pratiques de la Culture des Fruits, 1987, 169_ [⤴](https://archive.org/details/latechnologiesci0000haud)
 
-###### <a name="references"></a> Références
+###### Index
 
-[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
+[^1]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."
