@@ -34,7 +34,7 @@ _Quote_
 
 ## Anger
 
-_So when any one makes you angry, know that it is your own thoughts that has angered you._
+_Remember that it is not he who reviles or strikes you who insults you, but your opinion that these things are insulting. So when anyone makes you angry, know that it is your own thought that has angered you._
 
 - _Epictetus, Enchiridion, Chapter 20_ [⤴](http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:greekLit:tlg0557.tlg002.perseus-eng1:20)
 
