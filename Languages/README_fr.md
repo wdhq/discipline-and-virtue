@@ -1,4 +1,4 @@
-`Français` [`English`](../README.md)
+[`English`](../README.md) **`Français`**
 
 # Wisdom Starter Pack
 
@@ -158,4 +158,4 @@ Les plantes à patienter ?_
 
 ###### Index
 
-[^1]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."
+[^1]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) • La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."

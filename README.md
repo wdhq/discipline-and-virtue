@@ -1,4 +1,4 @@
-`English` [`Français`](Languages/README_fr.md)
+**`English`** [`Français`](Languages/README_fr.md)
 
 # Wisdom Starter Pack
 
@@ -158,4 +158,4 @@ The plants how to wait?_
 
 ###### Index
 
-[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
+[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) • The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
