@@ -27,8 +27,9 @@ _Citation_
     2. [Univers](#univers)
     3. [Conscience](#conscience)
 3. [Développement fondamental](#développement-fondamental)
-    1. [Vertu](#vertu)
-    2. [Gratitude](#gratitude)
+    1. [Résilience](#résilience)
+    2. [Vertu](#vertu)
+    3. [Gratitude](#gratitude)
 
 # Vulnérabilités émotionnelles
 
@@ -109,6 +110,18 @@ _Le mystère de la vie n'est pas une question à résoudre mais une réalité à
 - _J. J. Van Der Leeuw, La Conquête de l'illusion, 1928, 4, Page 9_ [⤴](https://archive.org/details/conquestofillusi0000jjva)
 
 # Développement fondamental
+
+## Résilience
+
+_Quiconque lutte contre des monstres devrait prendre garde, dans le combat, à ne pas devenir monstre lui-même. Et quant à celui qui scrute le fond de l'abysse, qu'il sache que l'abysse le scrute à son tour._
+
+- _Friedrich Nietzsche, Par delà le bien et le mal, 1886, Partie 4, 146_ [⤴](https://archive.org/details/bnf-bpt6k5526366d)
+
+> Les hommes ne vont-ils pas en guerre pour l'arrêter ou la prévenir ? Que dire à un homme qui a tué, lorsqu'il est déjà corrompu par ses actions ? Ce qui différencie les êtres humains, c'est leur capacité à s'abstenir de leurs pulsions ; celui qui se laisse dicter par ses instincts s'enfile lui-même une laisse et en devient aussitôt prisonnier.
+
+_Entrez par la porte étroite. Large est la porte et spacieux le chemin qui mène à la perdition, et nombreux ceux qui s'y engagent ; 14 combien étroite est la porte et resserré le chemin qui mène à la vie, et peu nombreux ceux qui le trouvent._
+
+- _Traduction œcuménique de la Bible, Matthieu 7:13-14_ [⤴](https://archive.org/details/traductioncumeni0000beaa)
 
 ## Vertu
 

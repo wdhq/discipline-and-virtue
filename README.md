@@ -27,8 +27,9 @@ _Quote_
 	2. [Universe](#universe)
 	3. [Consciousness](#consciousness)
 3. [Fundamental development](#fundamental-development)
-	1. [Virtue](#virtue)
-	2. [Gratitude](#gratitude)
+	1. [Resilience](#resilience)
+	2. [Virtue](#virtue)
+	3. [Gratitude](#gratitude)
 
 # Emotional vulnerabilities
 
@@ -109,6 +110,18 @@ _Life is not a problem to be solved, but a reality to be experienced._
 - _J. J. Van Der  Leeuw, The Conquest of Illusion, 1928, 4, Page 9_ [⤴](https://archive.org/details/conquestofillusi0000jjva)
 
 # Fundamental development
+
+## Resilience
+
+_He who fights with monsters should see to it that he himself does not become a monster. And if you gaze long into an abyss, the abyss also gazes into you._
+
+- _Friedrich Nietzsche, Beyond Good & Evil: Prelude to a Philosophy of the Future, 1886, Aphorism 146_ [⤴](https://archive.org/details/beyondgoodevilpr1909niet)
+
+> Don't men embark on the path of war to halt its march or forestall its coming? What can be said to a man who has killed when he is already corrupted by his actions? What differentiates human beings is their ability to refrain from their instincts; one who lets himself be guided by his instincts puts on a leash and becomes a captive of his own making.
+
+_Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it._
+
+- _New International Version, Matthew 7:13-14_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
 
 ## Virtue
 
