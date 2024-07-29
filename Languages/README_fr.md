@@ -17,22 +17,23 @@ _Citation_
 
 ## Sommaire
 
-1. [Vulnérabilités émotionnelles](#vulnérabilités-émotionnelles)
-    1. [Colère](#colère)
+1. [Vulnérabilités émotionnelles](#vulnerabilites-emotionnelles)
+    1. [Colère](#colere)
     2. [Solitude](#solitude)
     3. [Intelligence](#intelligence)
 2. [Questionnement existentiel](#questionnement-existentiel)
     1. [Mort](#mort)
     2. [Univers](#univers)
     3. [Conscience](#conscience)
-3. [Développement fondamental](#développement-fondamental)
-    1. [Résilience](#résilience)
+3. [Développement fondamental](#developpement-fondamental)
+    1. [Résilience](#resilience)
     2. [Vertu](#vertu)
     3. [Gratitude](#gratitude)
+4. [Références](#references)
 
-# Vulnérabilités émotionnelles
+# <a name="vulnerabilites-emotionnelles"></a> Vulnérabilités émotionnelles
 
-## Colère
+## <a name="colere"></a> Colère
 
 _Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement le responsable de ta colère._
 
@@ -108,9 +109,9 @@ _Le mystère de la vie n'est pas une question à résoudre mais une réalité à
 
 - _J. J. Van Der Leeuw, La Conquête de l'illusion, 1928, 4, Page 9_ [⤴](https://archive.org/details/conquestofillusi0000jjva)
 
-# Développement fondamental
+# <a name="developpement-fondamental"></a> Développement fondamental
 
-## Résilience
+## <a name="resilience"></a> Résilience
 
 _Quiconque lutte contre des monstres devrait prendre garde, dans le combat, à ne pas devenir monstre lui-même. Et quant à celui qui scrute le fond de l'abysse, qu'il sache que l'abysse le scrute à son tour._
 
@@ -155,6 +156,6 @@ Les plantes à patienter ?_
 
 - _André-Georges Haudricourt, Pratiques de la Culture des Fruits, 1987, 169_ [⤴](https://archive.org/details/latechnologiesci0000haud)
 
-###### Références
+###### <a name="references"></a> Références
 
 [^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
