@@ -19,7 +19,7 @@ _Citation_
 ## Sommaire
 
 1. [Vulnérabilités émotionnelles](#vulnérabilités-émotionnelles)
-    1. [Colère](#colère)
+    1. [Colère](#col&#232;re)
     2. [Solitude](#solitude)
     3. [Intelligence](#intelligence)
 2. [Questionnement existentiel](#questionnement-existentiel)
@@ -33,7 +33,7 @@ _Citation_
 
 # Vulnérabilités émotionnelles
 
-## Colère
+## Col&#232;re
 
 _Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement le responsable de ta colère._
 
