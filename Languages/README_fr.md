@@ -1,14 +1,12 @@
 # Wisdom Starter Pack
 
-> [!IMPORTANT]
-> Langues supportées [`Anglais`](../README.md) `Français`
+`Français` [`English`](../README.md)
 
 ## À propos
 
 [Wisdom Starter Pack](https://github.com/wdhq/wisdom-starter-pack) est un regroupement de ressources classiques pertinentes qui peuvent être appliquées à la psychologie et aux sciences sociales contemporaines. Son modeste objectif est de servir d'introduction *utile* à l'apprentissage de la sagesse au quotidien, tout en encourageant un comportement positif envers soi-même et les autres.
 
-> [!NOTE]
-> <p xmlns:cc="http://creativecommons.org/ns#" >Domaine public <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" >Domaine public <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
 ## Légende
 
@@ -156,5 +154,7 @@ Les grenouilles à nager ?
 Les plantes à patienter ?_
 
 - _André-Georges Haudricourt, Pratiques de la Culture des Fruits, 1987, 169_ [⤴](https://archive.org/details/latechnologiesci0000haud)
+
+###### Références
 
 [^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
