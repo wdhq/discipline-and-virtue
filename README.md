@@ -1,4 +1,4 @@
-**`English`** [`Français`](Languages/README_fr.md)
+**`English`** [`Français`](Translations/RnJhbsOnYWlz/README.md)
 
 # Wisdom Starter Pack
 
@@ -119,9 +119,13 @@ _He who fights with monsters should see to it that he himself does not become a 
 
 > Don't men embark on the path of war to halt its march or forestall its coming? What can be said to a man who has killed when he is already corrupted by his actions? What differentiates human beings is their ability to refrain from their instincts; one who lets himself be guided by his instincts puts on a leash and becomes a captive of his own making.
 
-_Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. But small is the gate and narrow the road that leads to life, and only a few find it._
+_<sup>13</sup> Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. <sup>14</sup> But small is the gate and narrow the road that leads to life, and only a few find it._
 
-- _New International Version, Matthew 7:13-14_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
+_<sup>15</sup> I do not understand what I do. For what I want to do I do not do, but what I hate I do. <sup>16</sup> And if I do what I do not want to do, I agree that the law is good._
+
+- _New International Version_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
+	- _Matthew 7:13-14_
+	- _Romans 7:15-16_
 
 ## Virtue
 
