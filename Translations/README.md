@@ -123,7 +123,7 @@ _<sup>13</sup> Entrez par la porte étroite. Car large est la porte, spacieux es
 
 _<sup>15</sup> Car je ne sais pas ce que je fais: je ne fais point ce que je veux, et je fais ce que je hais. <sup>16</sup> Or, si je fais ce que je ne veux pas, je reconnais par là que la loi est bonne._
 
-- _Bible Louis Segond, Nouvelle édition de Genève, 1979_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
+- _Bible Louis Segond, Nouvelle édition de Genève, 1979_ [⤴](https://archive.org/details/lasaintebiblequi00sego)
 	- _Matthieu 7:13-14_
 	- _Romains 7:15-16_
 
