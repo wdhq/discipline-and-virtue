@@ -1,4 +1,4 @@
-**`English`** [`Français`](Translations/RnJhbsOnYWlz/README.md)
+**`English`** [`Français`](Translations/README.md)
 
 # Wisdom Starter Pack
 
