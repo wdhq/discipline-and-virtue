@@ -147,6 +147,10 @@ _Think lightly of yourself and deeply of the world._
 
 > Individuals tend to overestimate their own significance, sometimes imagining it as big as mountains can be. In their foolishness, they might find themselves lost on the trail of life. Reevaluating the scale of existence is truly the leading path to understanding the realm to which we belong.
 
+_The soul becomes dyed with the color of its thoughts. So, for instance, if you are constantly contemplating the nature of the universe, you will come to embody its attributes. Similarly, if you are preoccupied with the nature of the good, you will become good. In essence, the character of your soul reflects the nature of your thoughts._
+
+- _Marcus Aurelius, Meditations, Book 5, Chapter 16_ [⤴](https://en.wikisource.org/wiki/The_Meditations_of_the_Emperor_Marcus_Antoninus/Book_5)
+
 _Preoccupied with a single leaf, you won’t see the tree. Preoccupied with a single tree, you’ll miss the entire forest._
 
 - _Miyamoto Musashi, The Book of Five Rings, 風の巻, 1645, Book 4_ [⤴](https://archive.org/details/bookoffiverings0000miya)

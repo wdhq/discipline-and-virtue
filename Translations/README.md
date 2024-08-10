@@ -147,6 +147,10 @@ _Pensez avec légèreté de vous-même et profondément du monde._
 
 > Les personnes ont tendance à surestimer leur propre importance, l'imaginant parfois aussi grande que les montagnes les plus hautes. C'est dans leur naïveté qu'elles se retrouvent perdues, égarées sur le chemin de leur propre vie. C'est pourquoi réévaluer l'échelle de l'existence est le véritable chemin vers la compréhension de notre place dans le monde.
 
+_L'âme prend la couleur de ses pensées. Veille donc à ce que tes pensées soient telles que, si tu es préoccupé par la nature de l'univers, tu deviennes conforme à cette nature ; et si tu es préoccupé par la nature du bien, tu deviennes bon._
+
+- _Marc Aurèle, Pensées pour moi-même, Livre 5, Chapitre 16_ [⤴](https://fr.wikisource.org/wiki/Pensées_pour_moi-même/Livre_V)
+
 _Préoccupé par une seule feuille, vous ne verrez pas l'arbre. Préoccupé par un seul arbre, vous manquerez toute la forêt._
 
 - _Miyamoto Musashi, Le Livre des Cinq Anneaux, 風の巻, 1645, Livre 4_ [⤴](https://archive.org/details/bookoffiverings0000miya)
