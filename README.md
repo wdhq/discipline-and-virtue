@@ -121,11 +121,11 @@ _He who fights with monsters should see to it that he himself does not become a 
 
 _<sup>13</sup> Enter through the narrow gate. For wide is the gate and broad is the road that leads to destruction, and many enter through it. <sup>14</sup> But small is the gate and narrow the road that leads to life, and only a few find it._
 
-_<sup>15</sup> I do not understand what I do. For what I want to do I do not do, but what I hate I do. <sup>16</sup> And if I do what I do not want to do, I agree that the law is good._
+_<sup>15</sup> I do not understand what I do. For what I want to do I do not do, but what I hate I do. <sup>16</sup> And if I do what I do not want to do, I agree that the law is good. <sup>17</sup> As it is, it is no longer I myself who do it, but it is sin living in me._
 
-- _New International Version_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
+- _Holy Bible, New International Version, 1973_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
 	- _Matthew 7:13-14_
-	- _Romans 7:15-16_
+	- _Romans 7:15-17_
 
 ## Virtue
 
