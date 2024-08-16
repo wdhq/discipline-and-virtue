@@ -28,7 +28,8 @@ _Quote_
 3. [Fundamental development](#fundamental-development)
 	1. [Resilience](#resilience)
 	2. [Virtue](#virtue)
-	3. [Gratitude](#gratitude)
+	3. [Physique](#physique)
+	4. [Gratitude](#gratitude)
 4. [Index](#index)
 
 # Emotional vulnerabilities
@@ -139,6 +140,18 @@ _When we are no longer able to change a situation, we are challenged to change o
 
 - _Viktor E. Frankl, Man’s Search for Meaning, 2, Page 112_ [⤴](https://archive.org/details/manssearchformea0000fran)
 
+## Physique
+
+_Man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer. He will not submit to such treatment unless driven by necessity. While surrounded by the comfort, the beauty, and the mechanical marvels engendered by technology, he does not understand how urgent is this operation. He fails to realize that he is degenerating._ [^2]
+
+- _Alexis Carrel, Man The Unknown, 1935, Chapter 8, 1_ [⤴](https://archive.org/details/in.ernet.dli.2015.168284/)
+
+> Our body is the only true instrument we possess, both precious and fragile; it is, until proven otherwise, irreplaceable. When we lose control over our body and stop paying attention to its needs and signals, we risk becoming disconnected from it. This disconnection can lead to gradual neglect. Fueled by the obsession with the artifices of modern life and its excesses, we end up ignoring these subtle signals, leading us to lose an essential part of ourselves, the one that constitutes our mental and physical balance.
+
+_Besides, it is a disgrace to grow old through sheer carelessness before seeing what manner of man you may become by developing your bodily strength and beauty to their highest limit. But you cannot see that, if you are careless; for it will not come of its own accord._
+
+- _Xenophon, Memorabilia, Book 3, Chapter 12_ [⤴](http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg002.perseus-eng1:3.12)
+
 ## Gratitude
 
 _Think lightly of yourself and deeply of the world._
@@ -166,4 +179,6 @@ The plants how to wait?_
 
 ###### Index
 
-[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) • The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
+[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) — The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
+
+[^2]: [Interpretative variation](https://fr.m.wikisource.org/wiki/Page:L%27homme,_cet_inconnu.djvu/359) — Modification of the grammatical gender to make it easier to introduce the subject, while maintaining the idea that the reflection applies to everyone. Refer to the original French formulation.

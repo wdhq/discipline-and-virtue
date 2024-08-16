@@ -28,7 +28,8 @@ _Citation_
 3. [Développement fondamental](#developpement-fondamental)
     1. [Résilience](#resilience)
     2. [Vertu](#vertu)
-    3. [Gratitude](#gratitude)
+    3. [Physique](#physique)
+    4. [Gratitude](#gratitude)
 4. [Index](#index)
 
 # <a name="vulnerabilites-emotionnelles"></a> Vulnérabilités émotionnelles
@@ -139,6 +140,18 @@ _Quand nous ne sommes plus capables de changer une situation, nous sommes confro
 
 - _Viktor E. Frankl, Découvrir un sens à sa vie grâce à la logothérapie, 2, Page 112_ [⤴](https://archive.org/details/decouvrirunsenss0000fran)
 
+## Physique
+
+_L'Homme ne peut pas se refaire sans douleur. Car il est à la fois le marbre et le sculpteur. C'est de sa propre substance qu'il doit, à grands coups de marteau, faire voler les éclats, afin de reprendre son vrai visage. Il ne se résignera pas à cette opération avant d'y être contraint par la nécessité. Il n'en voit pas l'urgence au milieu du confort, de la beauté, et des merveilles mécaniques que lui a apportées la technologie. Il ne s'aperçoit pas qu'il dégénère._ [^2]
+
+- _Alexis Carrel, L'Homme cet inconnu, 1935, Chapitre 8, 1_ [⤴](https://archive.org/details/lhommecetinconnu0000carr)
+
+> Notre corps est le seul véritable instrument que nous possédons, à la fois précieux et fragile ; il est, jusqu'à preuve du contraire, irremplaçable. Lorsque nous perdons le contrôle sur notre corps et cessons de prêter attention à ses besoins et à ses signaux, nous risquons de nous retrouver déconnectés de lui. Cette déconnexion peut entraîner une négligence progressive. Alimentée par l'obsession des artifices de la vie moderne et ses excès, nous finissons par ignorer ces signaux subtils, ce qui nous conduit à perdre une partie essentielle de nous-mêmes, celle qui constitue notre équilibre mental et physique.
+
+_D’ailleurs, il est honteux de vieillir dans cette négligence, sans savoir jusqu’où pourraient s’étendre la beauté et la force de son corps : or c’est ce qu’on ne peut connaître sans exercice ; car rien de cela ne vient de soi-même._
+
+- _Xénophon, Mémorables, Livre 3, Chapitre 12_ [⤴](http://data.perseus.org/citations/urn:cts:greekLit:tlg0032.tlg002.perseus-eng1:3.12)
+
 ## Gratitude
 
 _Pensez avec légèreté de vous-même et profondément du monde._
@@ -166,4 +179,6 @@ Les plantes à patienter ?_
 
 ###### Index
 
-[^1]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) • La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."
+[^1]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) — La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."
+
+[^2]: [Variation interprétative](https://fr.m.wikisource.org/wiki/Page:L%27homme,_cet_inconnu.djvu/359) — Modification du genre grammatical pour faciliter l’introduction du sujet, tout en conservant l’idée que la réflexion s’applique à tous.
