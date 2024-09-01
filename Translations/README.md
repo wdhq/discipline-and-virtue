@@ -158,7 +158,7 @@ _Pensez avec légèreté de vous-même et profondément du monde._
 
 - _Miyamoto Musashi, La Voie de la marche seule, 獨行道, 1645, Précepte 4_ [⤴](https://archive.org/details/fritzkeys-dokkodo-musashi)
 
-> Les personnes ont tendance à surestimer leur propre importance, l'imaginant parfois aussi grande que les montagnes les plus hautes. C'est dans leur naïveté qu'elles se retrouvent perdues, égarées sur le chemin de leur propre vie. C'est pourquoi réévaluer l'échelle de l'existence est le véritable chemin vers la compréhension de notre place dans le monde.
+> Les personnes ont tendance à surestimer leur propre importance, l'imaginant parfois aussi grande que les montagnes les plus hautes. C'est dans leur naïveté qu'elles se retrouvent perdues, égarées sur le chemin de leur propre vie. C'est pourquoi réévaluer l'échelle de l'existence est le véritable chemin vers la compréhension de notre place dans le monde. Nous resterons invariablement plus petits qu'une montagne, éternellement dominés par la grandeur des planètes et perpétuellement éloignés de l'étoile la plus distante.
 
 _L'âme prend la couleur de ses pensées. Veille donc à ce que tes pensées soient telles que, si tu es préoccupé par la nature de l'univers, tu deviennes conforme à cette nature ; et si tu es préoccupé par la nature du bien, tu deviennes bon._
 

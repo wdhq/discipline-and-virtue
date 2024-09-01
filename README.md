@@ -158,7 +158,7 @@ _Think lightly of yourself and deeply of the world._
 
 - _Miyamoto Musashi, The Way of Walking Alone, 獨行道, 1645, Precept 4_ [⤴](https://archive.org/details/fritzkeys-dokkodo-musashi)
 
-> Individuals tend to overestimate their own significance, sometimes imagining it as big as mountains can be. In their foolishness, they might find themselves lost on the trail of life. Reevaluating the scale of existence is truly the leading path to understanding the realm to which we belong.
+> Individuals tend to overestimate their own significance, sometimes imagining it as big as mountains can be. In their foolishness, they might find themselves lost on the trail of life. Reevaluating the scale of existence is truly the leading path to understanding the realm to which we belong. We will invariably remain smaller than a mountain, eternally dominated by the vastness of the planets, and perpetually distant from the farthest star.
 
 _The soul becomes dyed with the color of its thoughts. So, for instance, if you are constantly contemplating the nature of the universe, you will come to embody its attributes. Similarly, if you are preoccupied with the nature of the good, you will become good. In essence, the character of your soul reflects the nature of your thoughts._
 
