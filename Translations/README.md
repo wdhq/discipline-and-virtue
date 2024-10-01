@@ -1,10 +1,10 @@
 [`English`](../README.md) **`Français`**
 
-# Wisdom Starter Pack
+# Manuel de l'Excellence Morale
 
 ## À propos
 
-[Wisdom Starter Pack](https://github.com/wdhq/wisdom-starter-pack) est un recueil de matériaux littéraires classiques pouvant être appliqués à la psychologie et aux sciences sociales contemporaines. Sa modeste ambition est de servir d'introduction *utile* à l'apprentissage de la sagesse au quotidien, tout en encourageant un comportement positif envers soi-même et les autres.
+[Manuel de l'Excellence Morale](https://github.com/wdhq/moral-excellence) est un recueil de matériaux littéraires classiques pouvant être appliqués à la psychologie et aux sciences sociales contemporaines. Sa modeste ambition est de servir d'introduction substantiel à l'acquisition d'une sagesse durable, encourageant un comportement vertueux et équilibré tant envers soi-même qu'envers les autres.
 
 <p xmlns:cc="http://creativecommons.org/ns#" >Domaine public <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 

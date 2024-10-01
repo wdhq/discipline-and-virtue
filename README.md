@@ -1,10 +1,10 @@
 **`English`** [`Français`](Translations/README.md)
 
-# Wisdom Starter Pack
+# Manual of Moral Excellence
 
 ## About
 
-[Wisdom Starter Pack](https://github.com/wdhq/wisdom-starter-pack) is a collection of classic resources relevant to contemporary psychology and the social sciences. Its modest purpose serves as a *simple* gateway to everyday wisdom, encouraging positive behavior towards oneself and others.
+[Manual of Moral Excellence](https://github.com/wdhq/moral-excellence) is a collection of classic resources relevant to contemporary psychology and the social sciences. Its modest ambition is to serve as a substantial introduction to the acquisition of lasting wisdom, while encouraging virtuous and balanced behavior, both towards oneself and others.
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0 Universal<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
 
