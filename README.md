@@ -20,7 +20,8 @@ _Quote_
 1. [Emotional vulnerabilities](#emotional-vulnerabilities)
     1. [Anger](#anger)
     2. [Solitude](#solitude)
-	3. [Intelligence](#intelligence)
+	3. [Pride](#pride)
+	4. [Intelligence](#intelligence)
 2. [Existential questioning](#existential-questioning)
     1. [Death](#death)
 	2. [Universe](#universe)
@@ -58,9 +59,25 @@ _See that void above our heads? That's God. Silence is God, absence is God. God 
 
 - _Jean-Paul Sartre, Le Diable et le Bon Dieu, 1951, Third Act_ [⤴](https://archive.org/details/lediableetlebond0000sart)
 
+## Pride
+
+_One who excels as a warrior does not appear formidable;  
+One who excels in fighting is never roused in anger;  
+One who excels in defeating his enemy does not join issue;  
+One who excels in employing others humbles himself before them._ [^1]
+
+- _老子, Tao Te Ching, 道德经, 400 BC, Chapter 68_ [⤴](http://classics.mit.edu/Lao/taote.html)
+
+> He who knows himself does not aspire to more than what nature has given him; he does not seek to rise above his condition. He who compares himself eventually fades into his own misery, for seeking validation from others only reinforces the illusion of separation. The obsession with measuring oneself against others erodes self-esteem, creating a void that neither recognition nor external success can fill.
+
+_Do not judge, or you too will be judged. For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you._
+
+- _Holy Bible, New International Version, 1973_ [⤴](https://archive.org/details/holybiblenewinte0000unse)
+	- _Matthew 7:1-2_
+
 ## Intelligence
 
-_If you can't explain something to a six-year-old, you really don't understand it yourself._ [^1]
+_If you can't explain something to a six-year-old, you really don't understand it yourself._ [^2]
 
 - _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona)
 
@@ -142,7 +159,7 @@ _When we are no longer able to change a situation, we are challenged to change o
 
 ## Physique
 
-_Man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer. He will not submit to such treatment unless driven by necessity. While surrounded by the comfort, the beauty, and the mechanical marvels engendered by technology, he does not understand how urgent is this operation. He fails to realize that he is degenerating._ [^2]
+_Man must remake himself. And he cannot remake himself without suffering. For he is both the marble and the sculptor. In order to uncover his true visage he must shatter his own substance with heavy blows of his hammer. He will not submit to such treatment unless driven by necessity. While surrounded by the comfort, the beauty, and the mechanical marvels engendered by technology, he does not understand how urgent is this operation. He fails to realize that he is degenerating._ [^3]
 
 - _Alexis Carrel, Man The Unknown, 1935, Chapter 8, 1_ [⤴](https://archive.org/details/in.ernet.dli.2015.168284/)
 
@@ -179,6 +196,8 @@ The plants how to wait?_
 
 ###### Index
 
-[^1]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) — The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
+[^1]: [Contemporary Interpretation](http://classics.mit.edu/Lao/taote.2.ii.html#482) — Revision of the translations in archaic English by James Legge.
 
-[^2]: [Interpretative variation](https://fr.m.wikisource.org/wiki/Page:L%27homme,_cet_inconnu.djvu/359) — Modification of the grammatical gender to make it easier to introduce the subject, while maintaining the idea that the reflection applies to everyone. Refer to the original French formulation.
+[^2]: [Misattributed](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) — The earliest source of this statement comes from David Hilbert's talk *Mathematical Problems* given in 1900 before the *International Congress of Mathematicians*: "A mathematical theory is not to be considered complete until you have made it so clear that you can explain it to the first man whom you meet on the street."
+
+[^3]: [Interpretative variation](https://fr.m.wikisource.org/wiki/Page:L%27homme,_cet_inconnu.djvu/359) — Modification of the grammatical gender to make it easier to introduce the subject, while maintaining the idea that the reflection applies to everyone. Refer to the original French formulation.

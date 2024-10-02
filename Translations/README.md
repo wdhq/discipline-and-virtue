@@ -20,7 +20,8 @@ _Citation_
 1. [Vulnérabilités émotionnelles](#vulnerabilites-emotionnelles)
     1. [Colère](#colere)
     2. [Solitude](#solitude)
-    3. [Intelligence](#intelligence)
+    3. [Orgueil](#orgueil)
+    4. [Intelligence](#intelligence)
 2. [Questionnement existentiel](#questionnement-existentiel)
     1. [Mort](#mort)
     2. [Univers](#univers)
@@ -58,9 +59,25 @@ _Tu vois ce vide au-dessus de nos têtes ? C'est Dieu. Le silence, c'est Dieu, l
 
 - _Jean-Paul Sartre, Le Diable et le Bon Dieu, 1951, Troisième Acte_ [⤴](https://archive.org/details/lediableetlebond0000unse)
 
+## Orgueil
+
+_Celui qui excelle en tant que guerrier ne paraît pas redoutable ;  
+Celui qui excelle dans l'art du combat ne se laisse jamais emporter par la colère ;  
+Celui qui excelle dans la défaite de son ennemi n'engage jamais la bataille ;  
+Celui qui excelle dans l'art d'utiliser les autres se place au-dessous d'eux._ [^1]
+
+- _老子, Tao Te Ching, 道德经, 400 BC, Chapitre 68_ [⤴](http://classics.mit.edu/Lao/taote.html)
+
+> Celui qui se connaît lui-même n'aspire pas à plus que ce que la nature lui a donné ; il ne cherche pas à se hisser au-dessus de sa condition. Celui qui se compare finit par s’effacer dans sa propre misère, car chercher à être validé par autrui ne fait que renforcer l’illusion de la séparation. L’obsession de se mesurer aux autres érode l’estime de soi, créant un vide que ni la reconnaissance ni les succès extérieurs ne peuvent combler.
+
+_Ne jugez point, afin que vous ne soyez point jugés. Car on vous jugera du jugement dont vous jugez, et l’on vous mesurera avec la mesure dont vous mesurez._
+
+- _Bible Segond, Nouvelle édition de Genève, 1979_ [⤴](https://archive.org/details/lasaintebiblequi00sego)
+	- _Matthieu 7:1-2_
+
 ## Intelligence
 
-_Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement._ [^1]
+_Si vous ne pouvez expliquer un concept à un enfant de six ans, c'est que vous ne le comprenez pas complètement._ [^2]
 
 - _Ronald W. Clark, Einstein: His Life and Times, 1972, Page 418_ [⤴](https://archive.org/details/einstein00rona)
 
@@ -142,7 +159,7 @@ _Quand nous ne sommes plus capables de changer une situation, nous sommes confro
 
 ## Physique
 
-_L'Homme ne peut pas se refaire sans douleur. Car il est à la fois le marbre et le sculpteur. C'est de sa propre substance qu'il doit, à grands coups de marteau, faire voler les éclats, afin de reprendre son vrai visage. Il ne se résignera pas à cette opération avant d'y être contraint par la nécessité. Il n'en voit pas l'urgence au milieu du confort, de la beauté, et des merveilles mécaniques que lui a apportées la technologie. Il ne s'aperçoit pas qu'il dégénère._ [^2]
+_L'Homme ne peut pas se refaire sans douleur. Car il est à la fois le marbre et le sculpteur. C'est de sa propre substance qu'il doit, à grands coups de marteau, faire voler les éclats, afin de reprendre son vrai visage. Il ne se résignera pas à cette opération avant d'y être contraint par la nécessité. Il n'en voit pas l'urgence au milieu du confort, de la beauté, et des merveilles mécaniques que lui a apportées la technologie. Il ne s'aperçoit pas qu'il dégénère._ [^3]
 
 - _Alexis Carrel, L'Homme cet inconnu, 1935, Chapitre 8, 1_ [⤴](https://archive.org/details/lhommecetinconnu0000carr)
 
@@ -177,8 +194,14 @@ Les plantes à patienter ?_
 
 - _André-Georges Haudricourt, Pratiques de la Culture des Fruits, 1987, 169_ [⤴](https://archive.org/details/latechnologiesci0000haud)
 
+## Possession
+
+Ne gâche pas ce que tu as en désirant ce que tu n'as pas ; souviens-toi que ce que tu as maintenant faisait autrefois partie des choses que tu espérais.
+
 ###### Index
 
-[^1]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) — La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."
+[^1]: [Interprétation contemporaine](http://classics.mit.edu/Lao/taote.2.ii.html#482) — Révision des traductions en anglais archaïque par James Legge.
 
-[^2]: [Variation interprétative](https://fr.m.wikisource.org/wiki/Page:L%27homme,_cet_inconnu.djvu/359) — Modification du genre grammatical pour faciliter l’introduction du sujet, tout en conservant l’idée que la réflexion s’applique à tous.
+[^2]: [Mal attribué](https://en.wikiquote.org/wiki/Albert_Einstein#Misattributed) — La source la plus ancienne de cette affirmation provient de l'exposé de David Hilbert sur les « problèmes mathématiques », donné en 1900 devant le « Congrès international des mathématiciens » : "Une théorie mathématique ne peut être considérée comme complète que lorsque vous l'avez rendue si claire que vous pouvez l'expliquer au premier homme que vous rencontrez dans la rue."
+
+[^3]: [Variation interprétative](https://fr.m.wikisource.org/wiki/Page:L%27homme,_cet_inconnu.djvu/359) — Modification du genre grammatical pour faciliter l’introduction du sujet, tout en conservant l’idée que la réflexion s’applique à tous.
